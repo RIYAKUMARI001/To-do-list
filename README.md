@@ -4,7 +4,9 @@ This To-Do List app is a simple web-based tool that Built using HTML, CSS, JAVAS
 
 🚀 Features:
 Add new tasks.
+
 Mark tasks as completed.
+
 Delete tasks.
 
 HOW TO USE:
