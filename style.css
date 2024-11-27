@@ -67,7 +67,7 @@ list-style: none;
 }
 .task-item {
 display: flex;
-justify-content: space-between;
+justify-content: space-between; 
 align-items: center;
  margin-bottom: 10px;
 padding: 10px;
@@ -76,7 +76,6 @@ border-radius: 5px;
  background: #f9f9f9;
  font-size: 1rem;
 }
-
 .delete {
  background-color: #f9f9f9;
  color: #f44336;
@@ -86,6 +85,7 @@ border-radius: 5px;
 font-size: 14px;
  cursor: pointer;
  transition: background 0.3s ease;
+ margin-left: 10px;
 }
 
 .delete:hover {
