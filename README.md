@@ -19,4 +19,4 @@ Add task editing functionality.
 Implement a dark mode theme.
 Integrate with a task management API.
 
-#Additionally, exploring frameworks like React or Vue.js can streamline development and enable more advanced
+#Additionally, exploring frameworks like React or Vue.js can streamline development and enable more advanced.
