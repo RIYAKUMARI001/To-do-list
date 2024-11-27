@@ -8,7 +8,7 @@ Delete tasks.
 HOW TO USE:
 Clone the repository:
 Bash
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/RIYAKUMARI001/projects.git
 Use code with caution.
 Open the index.html file in a web browser.
 Additional Considerations.
