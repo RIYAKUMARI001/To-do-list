@@ -20,3 +20,6 @@ Implement a dark mode theme.
 Integrate with a task management API.
 
 #Additionally, exploring frameworks like React or Vue.js can streamline development and enable more advanced.
+![Screenshot 2024-11-27 134540](https://github.com/user-attachments/assets/e5d892a2-6300-4562-9990-20bbb10fb091)
+![Screenshot 2024-11-27 134705](https://github.com/user-attachments/assets/80964d4b-1eb6-45ac-90df-7e60116cdb9d)
+![Screenshot 2024-11-27 134725](https://github.com/user-attachments/assets/f36f1cbf-85b5-4d92-9a1e-bb2974041493)
