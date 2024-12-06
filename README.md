@@ -14,7 +14,7 @@ HOW TO USE:
 Clone the repository:
 
 Bash
-1.git clone https://github.com/RIYAKUMARI001/projects.git
+1.https://github.com/RIYAKUMARI001/To-do-list.git
 
 2.Open the index.html file in a web browser.
 
@@ -30,7 +30,7 @@ Integrate with a task management API.
 
 #Additionally, exploring frameworks like React or Vue.js can streamline development and enable more advanced.
 
-LIVE DEMO - https://riyakumari001.github.io/projects/
+LIVE DEMO -https://riyakumari001.github.io/To-do-list/
 
 *This screenshot shows the homepage of the app with all its main features.*
 ![Screenshot 2024-11-27 134540](https://github.com/user-attachments/assets/e5d892a2-6300-4562-9990-20bbb10fb091)
