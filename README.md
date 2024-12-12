@@ -39,6 +39,9 @@ This is a simple and user-friendly *TO-DO App* built using *HTML, **CSS, and **J
 4.Use the "Delete" icon to remove tasks from the list.
 
 ## Demo
+![Screenshot 2024-12-13 023927](https://github.com/user-attachments/assets/50ce4c73-3df3-45f3-a90c-121951eea762)
+![Screenshot 2024-12-13 023953](https://github.com/user-attachments/assets/4375c706-341a-41e8-871e-1aa8112ee268)
+![Screenshot 2024-12-13 024101](https://github.com/user-attachments/assets/d7daab02-4bd9-4823-b0ef-47fefff37253)
 
 
 
