@@ -5,13 +5,13 @@ This is a simple and user-friendly *TO-DO App* built using *HTML, **CSS, and **J
 ## Features
 
 - *Add Tasks*: Users can add tasks by entering the task name and clicking the "Add Task" button.
-- 
+  
 - *Delete Tasks*: Users can delete tasks by clicking the "Delete" icon next to each task.
-- 
+  
 - *Mark Tasks as Complete*: Users can mark tasks as complete by clicking on the task. Completed tasks are visually distinguished.
-- 
+  
 - *Persistent Storage*: All tasks are saved in the browser's localStorage, ensuring they remain available even after the page is refreshed.
-- 
+  
 - *Responsive Design*: The app is optimized for different screen sizes and includes a scrollbar for overflowing tasks.
 
 ## Installation
@@ -45,9 +45,9 @@ This is a simple and user-friendly *TO-DO App* built using *HTML, **CSS, and **J
 ## Technologies Used
 
 - *HTML*: Structure of the application.
-- 
+  
 - *CSS*: Styling and layout.
-- 
+  
 - *JavaScript*: Dynamic behavior and interactivity.
 
 ## Enhancements
